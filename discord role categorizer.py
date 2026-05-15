@@ -4,7 +4,7 @@ from concurrent.futures import ThreadPoolExecutor
 import asyncio
 import threading
 
-TOKEN = "MTUwNDYwNjEyMTEyMDUwMTg1MQ.G1ZiLH.POyl8QGJoodDcnUSF0vPIYqR0fjh7pdHOsQ7x0"
+TOKEN = "MTUwNDYwNjEyMTEyMDUwMTg1MQ.GpFTp5.1fs1aaXEpe3WuIfg3NIj8s-FAShsl7-5HOWH1E"
 
 DIVIDER = "------------------------------"
 
